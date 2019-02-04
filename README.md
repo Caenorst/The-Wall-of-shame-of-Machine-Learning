@@ -1,4 +1,4 @@
-# The-Wall-of-shame-of-Machine-Learning
+# The Wall of shame of Machine Learning
 ## Motivations
 If you are here, you (like me) probably spent some time trying to understand and reproduce some machine learning publications just to finally figuring out that it's unreproducible or borderline (if not completely) bullshit.
 
